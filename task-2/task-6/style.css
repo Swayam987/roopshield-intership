@@ -1,0 +1,31 @@
+body{
+    background:#0b1d51;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+}
+
+.container{
+    margin-top:50px;
+}
+
+input{
+    padding:10px;
+    width:200px;
+}
+
+button{
+    padding:10px;
+    margin:5px;
+    cursor:pointer;
+}
+
+.done{
+    text-decoration:line-through;
+    color:gray;
+}
+
+li{
+    margin:10px;
+    list-style:none;
+}
